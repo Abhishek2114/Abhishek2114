@@ -18,6 +18,7 @@ I'm looking to collaborate on: AI/ML projects, LLM evaluation tools, or backend 
 ![](https://github-readme-stats.shion.dev/api?username=Abhishek2114&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Abhishek2114&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abhishek2114&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhixhek2114&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Abhishek2114&icon=0&color=0)](https://visitcount.itsvg.in)
