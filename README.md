@@ -1,9 +1,5 @@
-## Hi there 👋
-
-<!--
-**Abhishek2114/Abhishek2114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# 💫 About Me:
-## About Me<br><br>Hi, I'm Abhishek. I'm an AI/ML engineer who builds and evaluates AI systems, from LLM post-training and model quality to the backend services that serve them.<br><br>I started coding from scratch. Since then I've worked across data, ML, and backend engineering: dashboards and reporting pipelines with SQL, Power BI, and Python; LLM and ML work with PyTorch, Hugging Face, and spaCy; and APIs and deployments with FastAPI, Docker, and AWS. I've also built ML models that run on Arduino-based embedded systems.<br><br>Right now I work on AI quality at Ethara AI, reviewing model outputs and code and documenting fixes that help the team ship better models. Outside of work I'm building:<br><br>- **AstralHQ**: a full-stack team task manager ([live demo](https://astralhq.vercel.app))<br>- **CodeGuardian AI**: a monitoring and incident intelligence platform for DevOps and SRE teams<br><br>I'm working toward AI/ML and software engineering roles at product companies, and I'm always happy to talk about LLM evaluation, fine-tuning, or building reliable backend systems.<br><br>🔭 I'm currently working on: AstralHQ (a full-stack task manager) and CodeGuardian AI (a monitoring and incident platform)<br>👯 I'm looking to collaborate on: AI/ML projects, LLM evaluation tools, or backend systems<br>🤝 I'm looking for help with: system design practice and feedback on my projects<br>🌱 I'm currently learning: system design, distributed systems, and LLM fine-tuning<br>💬 Ask me about: LLM evaluation, FastAPI and Docker deployments, and ML on embedded systems<br>⚡ Fun fact: I built ML models that run on Arduino-based embedded systems<br><br>📫 abhisheksinghrajput2124@gmail.com<br>🔗 [linkedin.com/in/abhisheksingh-313b84268](https://linkedin.com/in/abhisheksingh-313b84268)
+ I'm Abhishek.
+ I'm an AI/ML engineer who builds and evaluates AI systems, from LLM post-training and model quality to the backend services that serve them.<br><br>I started coding from scratch. Since then I've worked across data, ML, and backend engineering: dashboards and reporting pipelines with SQL, Power BI, and Python; LLM and ML work with PyTorch, Hugging Face, and spaCy; and APIs and deployments with FastAPI, Docker, and AWS. I've also built ML models that run on Arduino-based embedded systems.<br><br>Right now I work on AI quality at Ethara AI, reviewing model outputs and code and documenting fixes that help the team ship better models. Outside of work I'm building:<br><br>- **AstralHQ**: a full-stack team task manager ([live demo](https://astralhq.vercel.app))<br>- **CodeGuardian AI**: a monitoring and incident intelligence platform for DevOps and SRE teams<br><br>I'm working toward AI/ML and software engineering roles at product companies, and I'm always happy to talk about LLM evaluation, fine-tuning, or building reliable backend systems.<br><br>🔭 I'm currently working on: AstralHQ (a full-stack task manager) and CodeGuardian AI (a monitoring and incident platform)<br>👯 I'm looking to collaborate on: AI/ML projects, LLM evaluation tools, or backend systems<br>🤝 I'm looking for help with: system design practice and feedback on my projects<br>🌱 I'm currently learning: system design, distributed systems, and LLM fine-tuning<br>💬 Ask me about: LLM evaluation, FastAPI and Docker deployments, and ML on embedded systems<br>⚡ Fun fact: I built ML models that run on Arduino-based embedded systems<br><br>📫 abhisheksinghrajput2124@gmail.com<br>🔗 [linkedin.com/in/abhisheksingh-313b84268](https://linkedin.com/in/abhisheksingh-313b84268)
 
 
 ## 🌐 Socials:
@@ -20,14 +16,3 @@
 [![](https://komarev.com/ghpvc/?username=Abhixhek2114&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
